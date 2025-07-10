@@ -1,0 +1,62 @@
+.icon {
+    transition: .2s ease;
+}
+
+.icon:hover {
+    transition: .2s ease;
+}
+
+.java:hover {
+    filter: drop-shadow(0 0 2em royalblue);
+}
+
+.spring:hover {
+    filter: drop-shadow(0 0 2em limegreen);
+}
+
+.nodejs:hover {
+    filter: drop-shadow(0 0 2em grey);
+}
+
+.cpp:hover {
+    filter: drop-shadow(0 0 2em steelblue);
+}
+
+.git:hover {
+    filter: drop-shadow(0 0 2em orangered);
+}
+
+.docker:hover {
+    filter: drop-shadow(0 0 2em dodgerblue);
+}
+
+.mysql:hover {
+    filter: drop-shadow(0 0 2em royalblue);
+}
+
+.angular:hover {
+    filter: drop-shadow(0 0 2em red);
+}
+
+.react:hover {
+    filter: drop-shadow(0 0 2em dodgerblue);
+}
+
+.js:hover {
+    filter: drop-shadow(0 0 2em yellow);
+}
+
+.ts:hover {
+    filter: drop-shadow(0 0 2em dodgerblue);
+}
+
+.html5:hover {
+    filter: drop-shadow(0 0 2em orangered);
+}
+.css3:hover {
+    filter: drop-shadow(0 0 2em dodgerblue);
+}
+
+.vite:hover {
+    filter: drop-shadow(0 0 2em rebeccapurple);
+}
